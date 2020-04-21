@@ -1,0 +1,4 @@
+FLASK_APP=flask_app
+FLASK_ENV=development
+FLASK_RUN_HOST=0.0.0.0
+FLASK_RUN_PORT=8080
